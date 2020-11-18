@@ -2,7 +2,7 @@
 <br/>
 - 🌱 I’m currently learning everything 👻 <br/>
 - 🥅 my goals are to contribute more to Open Source projects 🤭	 <br/>
-- 📫 How to reach me: archithkris@gmail.com<br/> 
+- 📫 How to reach me: [archith][archithkris@gmail.com] <img src="https://tenor.com/view/emoji-laughing-gif-10474649" width="25px"><br/> 
 - ⚡ Fun fact:  I love to do nothing 😅<br/> 
 <br/>
 ### Languages and Tools:
