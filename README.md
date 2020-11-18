@@ -1,11 +1,10 @@
 ### Hi there I'm Archith	👋
 <br/>
-- 🌱 I’m currently learning everything 👻
-- 👯 I’m looking to collaborate on ...
-- 🥅 my goals are to contribute more to Open Source projects 🤭	 
-- 📫 How to reach me: archithkris@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact:  I love to do nothing 😅
+- 🌱 I’m currently learning everything 👻 <br/>
+- 👯 I’m looking to collaborate on ...<br/>
+- 🥅 my goals are to contribute more to Open Source projects 🤭	 <br/>
+- 📫 How to reach me: archithkris@gmail.com<br/> 
+- ⚡ Fun fact:  I love to do nothing 😅<br/> 
 <br/>
 ### Languages and Tools:
 
