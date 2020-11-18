@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 👻 <br/>
 - 🥅 my goals are to contribute more to Open Source projects 🤭	 <br/>
 - 📫 How to reach me: archithkris@gmail.com <br/> 
-- ⚡ Fun fact:  I love to do nothing 😅<br/> 
+- ⚡ Fun fact:  I love to do nothing 😅 <br/> 
 <br/>
 ### Languages and Tools:
 
